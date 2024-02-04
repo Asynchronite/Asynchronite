@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astrohweston" alt="astrohweston" /></a> </p>
 
-- 🔭 I’m currently working my website [Astroville](https://github.com/AstroHWeston/Astroville)
+- 🔭 I’m usually using various JetBrains products such as Webstrorm and DataGrip
 
 - 🌱 I’m currently learning **Discord.js, GitHub Automation, Git, SQL**
 
