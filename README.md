@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astrohweston&show_icons=true&locale=en" alt="astrohweston" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrohweston&" alt="astrohweston" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=AstroHWeston&theme=ayu-mirage&hide_border=false&border_radius=10&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background" alt="astrohweston" /></p>
 
