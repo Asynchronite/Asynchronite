@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hello, world! 👋<br>My name is Asynchronite! I'm a software engineer, working primarly in TypeScript!<br><br>🔭 I'm currently working on various Discord & Roblox related applications.<br>🤖 On top of software engineering, I tend to do a little bit of embedded programming for my robotics class.<br>🔬 I'm hoping to create a new Roblox API wrapper for JS/TS!<br>🧋 I have a deep understanding for the Discord API and interaction with it. I have applied this knowledge to create many Discord apps over the past **three years**!<br>💬 Wanna talk? Email me at me@astrohweston.xyz!
+My name is Asynchronite! I'm a software engineer, working primarly in TypeScript!<br><br>🔭 I'm currently working on various Discord & Roblox related applications.<br>🤖 On top of software engineering, I tend to do a little bit of embedded programming for my robotics class.<br>🔬 I'm hoping to create a new Roblox API wrapper for JS/TS!<br>🧋 I have a deep understanding for the Discord API and interaction with it. I have applied this knowledge to create many Discord apps over the past **three years**!<br>💬 Wanna talk? Email me at me@astrohweston.xyz!
 
 
 ## 🌐 Socials:
